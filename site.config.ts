@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Notion Website Test',
-  domain: 'notionsite',
+  name: 'Programming Fundamentals II',
+  domain: '',
   author: 'Christopher Celaya',
 
   // open graph metadata (optional)
